@@ -1,16 +1,16 @@
 <h1 align="center">♝ Welcome to Tex024's GitHub ♝</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Software+Engineer;AI+and+Game+Development;Quantum+Computing+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Quantum+Computing+Enthusiast;Game+Development;Chess+Bots" alt="Typing SVG">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🕵️‍♂ About Me
 - 🎓 **Computer Science Engineering Student** at **Politecnico di Milano**  
-- 🚀 Passionate about **AI, Game Development, Quantum Computing & Algorithm Design**  
-- 🎼 Composer of **orchestral & choir music**  
-- 🏆 Chess theory enthusiast  
+- 💛 Passionate about **Quantum, Game Development, Math and Logic & Chess Bots Programming**  
+- 🎶 Composer of **orchestral & choir music**  
+- ♟️ Chess theory enthusiast
 
 ---
 
