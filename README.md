@@ -51,12 +51,11 @@
 
 ---
 
-## 📬 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a>
-  <a href="mailto:your.email@example.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Gmail_Icon.svg" alt="Gmail" width="40" height="40"/> </a>
-</p>
+## 📬 Contact Me  
+📧 **Institutional Email:** [giacomo.tessera@mail.polimi.it](mailto:giacomo.tessera@mail.polimi.it)  
+📧 **Personal Email:** [giac.tessera@gmail.com](mailto:giac.tessera@gmail.com)  
+
 
 ---
 
-⭐️ **Feel free to explore my repositories and contribute to my projects!** 🚀  
+🚀 **Feel free to explore my repositories and contribute to my projects!** 🚀  
